@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc2c2a6749ec7eb499617c73f03d8bf0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clearpanel: {fileID: 8832358812635205953, guid: 7e11a5d44910b9e45ba6150499eae3b2, type: 3}
+  - overpanel: {fileID: 8472767787606312638, guid: 1d602cfd2a3f8ad49ab42c9246275b1f, type: 3}
+  - player_HPslider: {instanceID: 0}
+  - player_APslider: {instanceID: 0}
+  - suraimball_text_obj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
